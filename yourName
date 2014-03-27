@@ -17,7 +17,7 @@ public class Name {
         // My name
         System.out.print ("My name is Jean");
         // Enter Your name
-        System.out.println ("Your names are?" + " Gerald");
+        System.out.println ("Yeahhhh braaah! Gerald heree!);
        
     }
 }
