@@ -1,0 +1,24 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package name;
+
+/**
+ *
+ * @author 041209329
+ */
+public class Name {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // My name
+        System.out.println ("My name is Jean");
+        // Enter Your name
+        System.out.println ("Your names are ?"
+                + " = ?");
+       
+    }
+}
