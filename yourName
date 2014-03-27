@@ -15,10 +15,9 @@ public class Name {
      */
     public static void main(String[] args) {
         // My name
-        System.out.println ("My name is Jean");
+        System.out.print ("My name is Jean");
         // Enter Your name
-        System.out.println ("Your names are ?"
-                + " = ?");
+        System.out.println ("Your names are?" + " Gerald");
        
     }
 }
